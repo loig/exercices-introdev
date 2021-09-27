@@ -24,3 +24,43 @@ Pour résoudre un exercice vous devez coder la fonction Go qui est décrite dans
 **Ne faites pas cela dans le dossier récupéré par git clone, copiez l'exercice ailleurs, sinon ça vous causera des problèmes pour récupérer les nouveaux exercices durant les prochaines semaines.**
 
 Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossier vous trouverez des exercices faciles et d'autres plus difficiles, ne restez pas bloqués sur un exercice : passez à un autre et revenez-y plus tard.
+
+## Historique
+
+### 17 septembre 2021
+
+#### basiques
+- facteurspremiers
+- factorielle
+- monnaie
+- monnaie2
+- monnaie3
+- nombreparfait
+- nombrepremier
+- nombrespairs
+- nombrespremiers
+- stevej
+
+#### recherche
+- matrice
+- maxoccurrences
+- occurrences
+- occurrencesmax
+- prefixes
+- tabtab
+
+### 27 septembre 2021
+
+#### basiques
+- ensemble
+
+#### recherche
+- nombrespremiers
+- nombrespremiers2
+
+#### recursivite
+- chainesbinaires
+- chocolats
+- palindrome
+- sousensembles
+- sousensembles2
