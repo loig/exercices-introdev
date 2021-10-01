@@ -64,3 +64,19 @@ Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossie
 - palindrome
 - sousensembles
 - sousensembles2
+
+### 1 octobre 2021
+
+#### programmation dynamique
+- piecesjaunes
+- souschaine
+
+#### recherche
+- classement
+
+#### recursivite
+- huitreines
+- huitreines2
+- piecesjaunes
+- racaman
+- souschaine
