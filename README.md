@@ -80,3 +80,17 @@ Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossie
 - piecesjaunes
 - racaman
 - souschaine
+
+### 18 octobre 2021
+
+#### recherche
+- doublons1
+- doublons3
+- doublons4
+- doublons5
+
+#### tri
+- alphabetique
+- bienrange
+- decroissant
+- valabs
