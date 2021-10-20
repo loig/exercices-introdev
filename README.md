@@ -94,3 +94,23 @@ Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossie
 - bienrange
 - decroissant
 - valabs
+
+### 2021-2022 Test machine 1
+
+#### basiques
+- alphabet
+- calcul
+- somme
+
+#### pointeurs
+- double
+- varswitch
+
+#### recherche
+- compte (remplace occurrences, qui est similaire)
+- doublons2
+- puissant
+- recherche
+
+#### recursivite
+- suite
