@@ -48,3 +48,21 @@ func TestSomme(t *testing.T) {
 		t.Fail()
 	}
 }
+
+func TestNegatif(t *testing.T) {
+	// Quelques étudiants comptaient le nombre d'apparitions de chaque
+	// valeur dans le tableau, sans vérifier que ces valeurs étaient bien
+	// entre 1 et len(t)
+	if doublons([]int{-1}) {
+		t.Fail()
+	}
+}
+
+func TestTropGrand(t *testing.T) {
+	// Quelques étudiants comptaient le nombre d'apparitions de chaque
+	// valeur dans le tableau, sans vérifier que ces valeurs étaient bien
+	// entre 1 et len(t)
+	if doublons([]int{2}) {
+		t.Fail()
+	}
+}
