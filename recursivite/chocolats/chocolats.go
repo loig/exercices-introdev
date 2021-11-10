@@ -7,7 +7,7 @@ La fonction miam doit répondre (de manière récursive) à cette question.
 # Entrées
 - n : la somme dont on dispose en euros
 - m : le prix d'une barre de chocolat en euros, toujours supérieur à 0
-- k : le nombre d'embalages qu'il faut pour obtenir une barre de chocolat gratuite, toujours supérieur à 0
+- k : le nombre d'embalages qu'il faut pour obtenir une barre de chocolat gratuite, toujours supérieur à 1
 
 # Sortie
 - choco : le nombre de barre de chocolat qu'on peut obtenir en tout
