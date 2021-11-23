@@ -28,3 +28,13 @@ func TestFaux(t *testing.T) {
 		t.Error("egalite([]int{1, 2, 3, 4, 5}, []int{1, 4, 3, 6, 5}) devrait retourner false mais retourne true")
 	}
 }
+
+// Ajouté après le deuxième test machine 2021-2022
+func TestLongueur(t *testing.T) {
+	if egalite([]int{}, []int{1}) {
+		t.Fail()
+	}
+	if egalite([]int{1}, []int{}) {
+		t.Fail()
+	}
+}

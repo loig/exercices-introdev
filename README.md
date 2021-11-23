@@ -119,22 +119,38 @@ Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossie
 
 basiques devient divers
 
-### divers
+#### divers
 - chiffres
 
-### pointeurs
+#### pointeurs
 - add
 - copy
 
-### recherche
+#### recherche
 - egalite
 - recherche2
 
-### recursivite
+#### recursivite
 - conway
 - ppcm
 - syracuse
 
-### tri
+#### tri
 - tri
 - tri2
+
+### 23 novembre 2021
+
+#### fichiers
+- acrostiche
+- existe
+- lignes
+- lignes2
+
+#### recherche
+- egalite2
+
+#### recursivite
+- pgcd
+- pgcd2
+- ppcm2
