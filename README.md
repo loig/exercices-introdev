@@ -114,3 +114,27 @@ Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossie
 
 #### recursivite
 - suite
+
+### 2021-2022 Test machine 2
+
+basiques devient divers
+
+### divers
+- chiffres
+
+### pointeurs
+- add
+- copy
+
+### recherche
+- egalite
+- recherche2
+
+### recursivite
+- conway
+- ppcm
+- syracuse
+
+### tri
+- tri
+- tri2
