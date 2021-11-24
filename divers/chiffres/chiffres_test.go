@@ -22,3 +22,11 @@ func TestGrand(t *testing.T) {
 		t.Error("chiffres(10) devrait retourner 405071317 mais retourne ", res)
 	}
 }
+
+// Ajouté suite au test machine 2021-2022
+func TestTresGrand(t *testing.T) {
+	res := chiffres(25)
+	if res != 2284082997 {
+		t.Fail()
+	}
+}
