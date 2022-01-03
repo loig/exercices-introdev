@@ -154,3 +154,25 @@ basiques devient divers
 - pgcd
 - pgcd2
 - ppcm2
+
+### 2021-2022 Test machine 3
+
+#### divers
+- envers
+
+#### fichiers
+- nombre
+
+#### pointeurs
+- doubleptr
+
+#### recursivite
+- compte
+- compter
+- factorielle
+- recherche
+
+#### structures
+- classement
+- classer
+- longueur

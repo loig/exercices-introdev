@@ -7,7 +7,7 @@ import (
 var errPasEnsemble error = errors.New("ceci n'est pas un ensemble")
 
 /*
-Étant donné un ensemble E on peut construire tous ces sous-ensembles de manière récursive en remarquant que si E' est E\{x} pour un élément x de E, alors les sous-ensembles de E sont les sous-ensembles de E' auxquels s'ajoutent ces mêmes sous-ensembles augmentés de x.
+Étant donné un ensemble E on peut construire tous ses sous-ensembles de manière récursive en remarquant que si E' est E\{x} pour un élément x de E, alors les sous-ensembles de E sont les sous-ensembles de E' auxquels s'ajoutent ces mêmes sous-ensembles augmentés de x.
 La fonction sousEnsembles doit mettre en œuvre cette construction pour construire uniquement des sous-ensembles d'une longueur donnée.
 
 # Entrée
