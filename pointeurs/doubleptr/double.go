@@ -15,6 +15,9 @@ ci-dessous.
 
 # Sortie
 - err : une erreur indiquant que la fonction n'a pas pu fonctionner
+
+# Info
+2021-2022, test3, exercice 7
 */
 
 var errImpossibleAssignment error = errors.New("Impossible assignment")

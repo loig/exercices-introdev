@@ -13,6 +13,9 @@ fichier).
 - contient : un booléen qui vaut true si le chiffre 1 apparaît dans le fichier
              considéré et false sinon (le nom du fichier ne compte pas, seul
              son contenu est à prendre en compte).
+
+# Info
+2021-2022, test3, exercice 2
 */
 
 func nombre(chemin string) (contient bool) {

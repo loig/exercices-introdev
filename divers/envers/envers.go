@@ -13,6 +13,9 @@ La fonction modifie le tableau d'entrée et n'a donc pas de sorties.
 
 # Exemple
 envers appelée sur le tableau [1 2 3] doit le transformer en [3 2 1]
+
+# Info
+2021-2022, test3, exercice 0
 */
 
 func envers(t []int) {}

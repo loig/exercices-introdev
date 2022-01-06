@@ -28,3 +28,11 @@ func TestPresent(t *testing.T) {
 			"mais devrait retourner true")
 	}
 }
+
+// Ajouté après le troisième test machine 2021-2022
+
+func TestZero(t *testing.T) {
+	if recherche([]int{1, 2, 3, 4, 5}, 0) {
+		t.Fail()
+	}
+}

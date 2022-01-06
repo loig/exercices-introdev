@@ -14,6 +14,9 @@ met en premier celui qui a le prénom qui est en premier dans l'ordre alphabéti
 
 # Sortie
 - classement : un tableau contenant les mêmes étudiants mais trié
+
+# Info
+2021-2022, test3, exercice 5
 */
 
 type etudiant struct {

@@ -22,3 +22,17 @@ func TestBasique(t *testing.T) {
 		t.Error("compter(2, 5) devrait retourner \"2+3+4+5+4+3+2\" mais retourne \"", s, "\"")
 	}
 }
+
+// Ajouté après le troisième test machine 2021-2022
+
+func TestZeroZero(t *testing.T) {
+	if compter(0, 0) != "0" {
+		t.Fail()
+	}
+}
+
+func TestZeroN(t *testing.T) {
+	if compter(0, 2) != "0+1+2+1+0" {
+		t.Fail()
+	}
+}

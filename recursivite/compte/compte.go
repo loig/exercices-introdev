@@ -16,6 +16,9 @@ de tab et du nombre de fois où v apparaît dans la deuxième moité de tab.
 
 # Sortie
 - num : le nombre de fois que v apparaît dans tab
+
+# Info
+2021-2022, test3, exercice 3
 */
 
 func compte(tab []int, v int) (num int) {

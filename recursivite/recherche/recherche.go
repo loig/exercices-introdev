@@ -16,6 +16,9 @@ deuxième moitié de tab.
 
 # Sortie
 - found : un booléen indiquant si v est présente dans tab ou pas
+
+# Info
+2021-2022, test3, exercice 2
 */
 
 func recherche(tab []int, v int) (existe bool) {

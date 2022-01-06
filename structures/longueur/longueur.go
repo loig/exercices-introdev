@@ -16,6 +16,9 @@ atteindre un élément pour lequel next vaut nil).
 
 # Sortie
 - l : la longueur de c
+
+# Info
+2021-2022, test3, exercice 8
 */
 
 type chaine struct {

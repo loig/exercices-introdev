@@ -18,6 +18,9 @@ Vous ne devez pas utiliser de boucles, la fonction compter sera donc récursive.
 # Exemples
 compter(5, 5) = "5"
 compter(2, 5) = "2+3+4+5+4+3+2"
+
+# Info
+2021-2022, test3, exercice 4
 */
 
 func compter(n, m uint) (s string) {

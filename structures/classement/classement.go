@@ -33,6 +33,9 @@ devrait permettre d'afficher le classement suivant :
 2. Tamzalit Dalila
 4. Jezequel Loïg
 4. Jezequel Maël
+
+# Info
+2021-2022, test3, exercice 6
 */
 
 type etudiant struct {
