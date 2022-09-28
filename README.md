@@ -23,7 +23,13 @@ Pour résoudre un exercice vous devez coder la fonction Go qui est décrite dans
 
 **Ne faites pas cela dans le dossier récupéré par git clone, copiez l'exercice ailleurs, sinon ça vous causera des problèmes pour récupérer les nouveaux exercices durant les prochaines semaines.**
 
+## Instructions pour choisir les exercices
+
 Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossier vous trouverez des exercices faciles et d'autres plus difficiles, ne restez pas bloqués sur un exercice : passez à un autre et revenez-y plus tard.
+
+Vous disposez aussi d'une page Web pour voir la difficulté (ressentie par la promo) des exercices. Cette page est accessible à l'adresse http://172.26.82.22 **depuis le réseau de l'IUT uniquement**.
+
+N'oubliez pas, à chaque fois que vous résolvez un exercice, d'évaluer sa difficulté sur cette page pour aider les autres à repérer les exercices plus ou moins difficiles.
 
 ## Historique
 
