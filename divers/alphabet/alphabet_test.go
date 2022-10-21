@@ -45,3 +45,15 @@ func TestLongueur2(t *testing.T) {
 		t.Fail()
 	}
 }
+
+func TestLongueur3(t *testing.T) {
+	if !alphabet("bonjour", "court") {
+		t.Fail()
+	}
+}
+
+func TestLongueur4(t *testing.T) {
+	if alphabet("court", "bonjour") {
+		t.Fail()
+	}
+}
