@@ -25,3 +25,15 @@ func TestPasOk2(t *testing.T) {
 		t.Fail()
 	}
 }
+
+func TestPasOk3(t *testing.T) {
+	if doublons([]int{1, 2, 3, 4, 4}) {
+		t.Fail()
+	}
+}
+
+func TestPasOk4(t *testing.T) {
+	if doublons([]int{1, 2, 3, 4, 6}) {
+		t.Fail()
+	}
+}
