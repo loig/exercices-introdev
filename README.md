@@ -182,3 +182,23 @@ basiques devient divers
 - classement
 - classer
 - longueur
+
+### 2022-2023 Test machine 1
+
+#### divers
+- bougies
+- decimales
+- divisible
+
+#### pointeurs
+- setval
+
+#### recherche
+- deuxgrands
+- moitie
+- multipledetrois
+- plusquezero
+
+#### recursivite
+- suitemoinssimple
+- suitesimple
