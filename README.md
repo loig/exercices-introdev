@@ -202,3 +202,21 @@ basiques devient divers
 #### recursivite
 - suitemoinssimple
 - suitesimple
+
+### 2022-2023 Test machine 2
+
+#### pointeurs
+- somme
+
+#### recursivite
+- combinaisons
+- desert
+- pairs
+- parentheses
+- suite2
+- suiteconditionnelle
+- suitehistorique
+- suiteparametree
+
+#### tri
+- pairsimpairs
