@@ -23,7 +23,7 @@ func TestAutres(t *testing.T) {
 	for i := 0; i < 1000; i++ {
 		n := uint(rand.Intn(10000))
 		f := facteursPremiers(n)
-		if !facteurs(f, n) {
+		if !facteurs(f, n) || !premiers(f) {
 			t.Fail()
 		}
 	}
