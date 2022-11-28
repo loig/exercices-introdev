@@ -22,3 +22,12 @@ func TestU10(t *testing.T) {
 		t.Error("u10 doit valoir 14, mais vous retournez", u10)
 	}
 }
+
+// Ajouté après le test
+
+func TestU1(t *testing.T) {
+	u1 := terme(1)
+	if u5 != 2 {
+		t.Error("u1 doit valoir 2, mais vous retournez", u1)
+	}
+}
