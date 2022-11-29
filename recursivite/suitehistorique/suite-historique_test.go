@@ -27,7 +27,7 @@ func TestU10(t *testing.T) {
 
 func TestU1(t *testing.T) {
 	u1 := terme(1)
-	if u5 != 2 {
+	if u1 != 2 {
 		t.Error("u1 doit valoir 2, mais vous retournez", u1)
 	}
 }
