@@ -251,3 +251,6 @@ basiques devient divers
 - interval
 - moitie2
 - positifs
+
+#### recursivite
+- suitemoinssimple2
