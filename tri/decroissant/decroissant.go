@@ -1,11 +1,13 @@
 package decroissant
 
 /*
-La fonction décroissant doit trier un tableau d'entiers du plus grand
-au plus petit.
+La fonction decroissant doit trier un tableau d'entiers dans l'ordre décroissant.
 
 # Entrée
-- tab : le tableau à trier
+- t, le tableau à trier (en place)
+
+# Info
+2022-2023, test 4, exercice 7
 */
 
 func decroissant(tab []int) {}

@@ -253,4 +253,9 @@ basiques devient divers
 - positifs
 
 #### recursivite
+- suitesimple (mise à jour)
 - suitemoinssimple2
+
+#### tri
+- decroissant (mise à jour)
+- deuxcriteres
