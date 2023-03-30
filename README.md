@@ -233,6 +233,8 @@ basiques devient divers
 #### structures
 - livres
 - pages
+- queue
+- queue2
 - titre
 
 #### tri
