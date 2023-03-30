@@ -220,3 +220,9 @@ basiques devient divers
 
 #### tri
 - pairsimpairs
+
+### 2022-2023 Test machine 3
+
+#### tri
+- longueur
+- vraifaux
