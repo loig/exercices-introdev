@@ -13,6 +13,9 @@ import "errors"
 # Sorties
 - mot : le premier mot du fichier fName s'il existe (n'import quoi sinon)
 - err : nil s'il existe un mot dans le fichier fName, errImpossible sinon
+
+# Info
+2022-2023, test3, exercice 5
 */
 
 var errImpossible error = errors.New("Le fichier n'existe pas ou il ne contient aucun mot")

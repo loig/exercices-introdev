@@ -2,12 +2,14 @@ package unmot
 
 import "testing"
 
-func TestPasLa2(t *testing.T) {
+func TestPasLa(t *testing.T) {
 	_, err := premiermot("test")
 	if err != errImpossible {
 		t.Fail()
 	}
 }
+
+// ajoutés après le test machine
 
 func TestVide(t *testing.T) {
 	_, err := premiermot("../fichiers-tests/unmot-test2")
