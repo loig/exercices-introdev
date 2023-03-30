@@ -250,3 +250,4 @@ basiques devient divers
 - deuxpetits
 - interval
 - moitie2
+- positifs
