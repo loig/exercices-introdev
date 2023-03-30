@@ -255,6 +255,7 @@ basiques devient divers
 #### recursivite
 - suitesimple (mise à jour)
 - suitemoinssimple2
+- suiteparametree2
 
 #### tri
 - decroissant (mise à jour)
