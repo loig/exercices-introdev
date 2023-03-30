@@ -240,3 +240,8 @@ basiques devient divers
 #### tri
 - longueur
 - vraifaux
+
+### 2022-2023 Test machine 4
+
+#### pointeurs
+- produit
