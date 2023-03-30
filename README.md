@@ -245,3 +245,6 @@ basiques devient divers
 
 #### pointeurs
 - produit
+
+#### recherche
+- interval
