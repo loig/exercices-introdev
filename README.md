@@ -227,6 +227,9 @@ basiques devient divers
 - filtre
 - unmot
 
+#### recursivite
+- encoreunesuite
+
 #### structures
 - livres
 - pages
