@@ -8,26 +8,21 @@ Vous pouvez récupérer tout le contenu de ce dépôt avec la commande suivante 
 
 Les semaines suivantes vous pourrez le mettre à jour avec les nouveaux exercices simplement en vous plaçant dans le dossier et en utilisant la commande suivante : git pull
 
-**Attention, si vous modifiez le contenu du dossier, la commande git pull va vous signaler des erreurs, vous verrez à quoi cela correspond un peu plus tard. Ne modifiez donc pas le contenu du dossier.**
-
 ## Instructions pour faire les exercices
 
 Le dossier que vous aurez récupéré contient plusieurs dossiers (basiques, recherche, etc) qui eux-même contiennent des sous-dossiers (dans basiques il y a par exemple facteurspremiers, monnaie, etc). Chacun de ces sous-dossiers est un exercice.
 
-Chaque exercice contient trois fichiers :
-- go.mod, décrivant un module Go
+Chaque exercice contient deux fichiers :
 - xxx_test.go, décrivant un jeu de tests
 - xxx.go, l'exercice en lui même
 
-Pour résoudre un exercice vous devez coder la fonction Go qui est décrite dans le fichier de l'exercice et vérifier qu'elle passe bien tous les tests.
-
-**Ne faites pas cela dans le dossier récupéré par git clone, copiez l'exercice ailleurs, sinon ça vous causera des problèmes pour récupérer les nouveaux exercices durant les prochaines semaines.**
+Pour résoudre un exercice vous devez coder la fonction Go qui est décrite dans le fichier de l'exercice et vérifier qu'elle passe bien tous les tests. Pour cela vous pouvez utiliser la commande **go test** en vous plaçant dans le dossier de l'exercice.
 
 ## Instructions pour choisir les exercices
 
 Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossier vous trouverez des exercices faciles et d'autres plus difficiles, ne restez pas bloqués sur un exercice : passez à un autre et revenez-y plus tard.
 
-Vous disposez aussi d'une page Web pour voir la difficulté (ressentie par la promo) des exercices. Cette page est accessible à l'adresse http://172.26.82.22 **depuis le réseau de l'IUT uniquement**.
+Vous disposez aussi d'une page Web pour voir la difficulté (ressentie par votre promo et les anciens étudiants) des exercices. Cette page est accessible à l'adresse http://172.26.82.22 **depuis le réseau de l'IUT uniquement**. Votre identifiant est votre nom de famille en majuscules suivi de votre prénom (ex : JEZEQUEL Loïg) et votre mot de passe est votre nom de famille en majuscules (ex : JEZEQUEL).
 
 N'oubliez pas, à chaque fois que vous résolvez un exercice, d'évaluer sa difficulté sur cette page pour aider les autres à repérer les exercices plus ou moins difficiles.
 
