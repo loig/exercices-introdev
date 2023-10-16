@@ -260,6 +260,7 @@ basiques devient divers
 
 #### recherche
 - comptevrai
+- multiplesdedeux
 - recherche (mise à jour)
 
 #### recursivite
