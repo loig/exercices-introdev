@@ -255,3 +255,8 @@ basiques devient divers
 #### tri
 - decroissant (mise à jour)
 - deuxcriteres
+
+### 2023-2024 Test machine 1
+
+#### recherche
+- recherche (mise à jour)
