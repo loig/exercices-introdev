@@ -267,6 +267,7 @@ basiques devient divers
 - recherche (mise à jour)
 
 #### recursivite
+- suitedouble
 - suitesimple2
 
 #### tri
