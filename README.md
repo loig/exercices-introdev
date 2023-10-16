@@ -259,6 +259,7 @@ basiques devient divers
 ### 2023-2024 Test machine 1
 
 #### recherche
+- comptemax
 - comptevrai
 - dernier
 - interval2
