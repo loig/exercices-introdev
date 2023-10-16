@@ -260,3 +260,6 @@ basiques devient divers
 
 #### recherche
 - recherche (mise à jour)
+
+#### recursivite
+- suitesimple2
