@@ -267,6 +267,7 @@ basiques devient divers
 - recherche (mise à jour)
 
 #### recursivite
+- ateddybearpicnic
 - suitedouble
 - suitesimple2
 
