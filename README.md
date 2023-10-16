@@ -265,3 +265,6 @@ basiques devient divers
 
 #### recursivite
 - suitesimple2
+
+#### tri
+- classement
