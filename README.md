@@ -260,6 +260,7 @@ basiques devient divers
 
 #### recherche
 - comptevrai
+- dernier
 - interval2
 - multiplesdedeux
 - recherche (mise à jour)
