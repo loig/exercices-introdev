@@ -276,6 +276,9 @@ basiques devient divers
 
 ### 2023-2024 Test machine 2
 
+#### divers
+- alphanum
+
 #### recherche
 - doublons6
 
