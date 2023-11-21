@@ -280,4 +280,5 @@ basiques devient divers
 - doublons6
 
 #### recursivite
+- somme
 - yetanothersuite
