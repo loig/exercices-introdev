@@ -273,3 +273,8 @@ basiques devient divers
 
 #### tri
 - classement
+
+### 2023-2024 Test machine 2
+
+#### recherche
+- doublons6
