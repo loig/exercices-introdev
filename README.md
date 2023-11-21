@@ -287,4 +287,5 @@ basiques devient divers
 - yetanothersuite
 
 #### structures
+- contient
 - majeur
