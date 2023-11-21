@@ -285,3 +285,6 @@ basiques devient divers
 #### recursivite
 - somme
 - yetanothersuite
+
+#### structures
+- majeur
