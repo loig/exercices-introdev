@@ -286,6 +286,7 @@ basiques devient divers
 - egalite (mise à jour)
 
 #### recursivite
+- sequences
 - somme
 - yetanothersuite
 
