@@ -19,7 +19,8 @@ répondre la fonction egalite.
           qui vaut false sinon
 
 # Info
-2021-2022, test2, exercice 3
+2021-2022, test 2, exercice 3
+2023-2024, test 2, exercice 6
 */
 
 func egalite(t1, t2 []int) (egaux bool) {

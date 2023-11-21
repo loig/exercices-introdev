@@ -281,6 +281,7 @@ basiques devient divers
 
 #### recherche
 - doublons6
+- egalite (mise à jour)
 
 #### recursivite
 - somme
