@@ -278,3 +278,6 @@ basiques devient divers
 
 #### recherche
 - doublons6
+
+#### recursivite
+- yetanothersuite
