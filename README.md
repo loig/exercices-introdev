@@ -301,3 +301,6 @@ basiques devient divers
 
 #### structures
 - fieldval
+
+#### tri
+- alphabetique (mise à jour)

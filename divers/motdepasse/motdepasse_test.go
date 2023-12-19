@@ -12,7 +12,7 @@ func Test(t *testing.T) {
 	}
 }
 
-// Ajouté après le test
+// Ajouté après le test machine
 func Test2(t *testing.T) {
 	solides := []string{
 		"1234ABcd",
