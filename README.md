@@ -301,6 +301,8 @@ basiques devient divers
 
 #### structures
 - fieldval
+- sortstruct
+- sortstruct2
 
 #### tri
 - alphabetique (mise à jour)
