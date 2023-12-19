@@ -300,6 +300,9 @@ basiques devient divers
 - motdepasse
 - riz
 
+#### fichiers
+- file2struct
+
 #### structures
 - fieldval
 - sortstruct
