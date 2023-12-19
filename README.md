@@ -293,3 +293,8 @@ basiques devient divers
 #### structures
 - contient
 - majeur
+
+### 2023-2024 Test machine 3
+
+#### structures
+- fieldval
