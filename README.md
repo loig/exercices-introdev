@@ -297,7 +297,8 @@ basiques devient divers
 ### 2023-2024 Test machine 3
 
 #### divers
--motdepasse
+- motdepasse
+- riz
 
 #### structures
 - fieldval
