@@ -302,6 +302,7 @@ basiques devient divers
 
 #### fichiers
 - file2struct
+- file2tab
 
 #### structures
 - fieldval

@@ -15,7 +15,7 @@ func Test(t *testing.T) {
 	}
 }
 
-func Test312415468754(t *testing.T) {
+func Test2(t *testing.T) {
 	stud := file2struct("../fichiers-tests/exemple2.stud")
 	if stud.firstName != "Plip" {
 		t.Fail()
