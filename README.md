@@ -306,6 +306,7 @@ basiques devient divers
 
 #### structures
 - fieldval
+- sortlist
 - sortstruct
 - sortstruct2
 

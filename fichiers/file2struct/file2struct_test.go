@@ -15,6 +15,7 @@ func Test(t *testing.T) {
 	}
 }
 
+// Ajouté après le test machine
 func Test2(t *testing.T) {
 	stud := file2struct("../fichiers-tests/exemple2.stud")
 	if stud.firstName != "Plip" {

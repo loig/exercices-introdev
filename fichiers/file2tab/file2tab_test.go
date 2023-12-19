@@ -24,6 +24,7 @@ func Test(t *testing.T) {
 	}
 }
 
+// Ajouté après le test machine
 func Test2(t *testing.T) {
 	res := file2tab("../fichiers-tests/exemple2.liste")
 	if len(res) != 7 {
