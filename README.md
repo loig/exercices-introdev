@@ -313,3 +313,21 @@ basiques devient divers
 
 #### tri
 - alphabetique (mise à jour)
+
+### 2024-2025 Test machine 1
+
+#### divers
+- moyenne
+
+#### recherche
+- egalite (déjà présent)
+- egalite2 (déjà présent)
+- inclusion
+- manquant
+- plusgrand
+- recherche (déjà présent)
+
+#### recursivite
+- hanoi
+- suite3
+- suiteconditionnelle2

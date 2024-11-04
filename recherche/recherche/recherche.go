@@ -15,6 +15,7 @@ tab. Si la valeur v n'est pas présente, il faut l'indiquer en retournant false.
 # Info
 2021-2022, test 1, exercice 5
 2023-2024, test 1, exercice 0
+2024-2025, test 1, exercice 0
 */
 
 func trouve(a int, t []int) (pos int, existe bool) {
