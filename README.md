@@ -331,3 +331,25 @@ basiques devient divers
 - hanoi
 - suite3
 - suiteconditionnelle2
+
+### 2024-2025 Test machine 2
+
+#### divers
+- mail
+- palindrome
+
+#### recherche
+- trouvevrai
+
+#### recursivite
+- recherchemin
+- suite4
+- suiteconditionnelle3
+
+#### structures
+- cycle
+
+#### tri
+- longueur (et l'ancien longueur devient longueur2)
+- rectangles
+- rectangles2
