@@ -51,3 +51,9 @@ func TestNOk5(t *testing.T) {
 		t.Fail()
 	}
 }
+
+func TestNOk6(t *testing.T) {
+	if estAdresseValide("je@n-fr@ncois@univ-nantes.fr") {
+		t.Fail()
+	}
+}
