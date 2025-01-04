@@ -26,7 +26,7 @@ func Test1(t *testing.T) {
 	}
 }
 
-// Ajoutés après le test
+// Ajoutés après le test 2023-2024
 
 type test struct {
 	contenu  []int
@@ -83,4 +83,92 @@ func egalElement(e1, e2 *element) bool {
 	}
 
 	return egalElement(e1.suivant, e2.suivant)
+}
+
+// Tests pour le DS 2024-2025
+
+func TestExiste(t *testing.T) {
+
+	var e3 element = element{valeur: 100, suivant: nil}
+	var e2 element = element{valeur: 200, suivant: &e3}
+	var e1 element = element{valeur: 300, suivant: &e2}
+	var e0 element = element{valeur: 400, suivant: &e1}
+	var l liste = liste{debut: &e0}
+
+	if !l.contient(200) {
+		t.Fail()
+	}
+
+}
+
+func TestNExistePas(t *testing.T) {
+
+	var e3 element = element{valeur: 100, suivant: nil}
+	var e2 element = element{valeur: 200, suivant: &e3}
+	var e1 element = element{valeur: 300, suivant: &e2}
+	var e0 element = element{valeur: 400, suivant: &e1}
+	var l liste = liste{debut: &e0}
+
+	if l.contient(500) {
+		t.Fail()
+	}
+
+}
+
+// Ajoutés après le DS
+
+func TestVide(t *testing.T) {
+
+	var l liste = liste{debut: nil}
+
+	if l.contient(0) {
+		t.Fail()
+	}
+
+}
+
+func TestExiste2(t *testing.T) {
+
+	var e12 element = element{valeur: 100, suivant: nil}
+	var e11 element = element{valeur: 150, suivant: &e12}
+	var e10 element = element{valeur: 0, suivant: &e11}
+	var e9 element = element{valeur: 3, suivant: &e10}
+	var e8 element = element{valeur: 100, suivant: &e9}
+	var e7 element = element{valeur: 112, suivant: &e8}
+	var e6 element = element{valeur: 1024, suivant: &e7}
+	var e5 element = element{valeur: 40, suivant: &e6}
+	var e4 element = element{valeur: 100, suivant: &e5}
+	var e3 element = element{valeur: 100, suivant: &e4}
+	var e2 element = element{valeur: 200, suivant: &e3}
+	var e1 element = element{valeur: 300, suivant: &e2}
+	var e0 element = element{valeur: 400, suivant: &e1}
+	var l liste = liste{debut: &e0}
+
+	if !l.contient(1024) {
+		t.Fail()
+	}
+
+}
+
+func TestNExistePas2(t *testing.T) {
+
+	var e12 element = element{valeur: 100, suivant: nil}
+	var e11 element = element{valeur: 150, suivant: &e12}
+	var e10 element = element{valeur: 0, suivant: &e11}
+	var e9 element = element{valeur: 3, suivant: &e10}
+	var e8 element = element{valeur: 100, suivant: &e9}
+	var e7 element = element{valeur: 112, suivant: &e8}
+	var e6 element = element{valeur: 1024, suivant: &e7}
+	var e5 element = element{valeur: 40, suivant: &e6}
+	var e4 element = element{valeur: 100, suivant: &e5}
+	var e3 element = element{valeur: 100, suivant: &e4}
+	var e2 element = element{valeur: 200, suivant: &e3}
+	var e1 element = element{valeur: 300, suivant: &e2}
+	var e0 element = element{valeur: 400, suivant: &e1}
+	var l liste = liste{debut: &e0}
+
+	if l.contient(1025) {
+		t.Fail()
+	}
+
 }

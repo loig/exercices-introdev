@@ -1,6 +1,10 @@
 package decroissant
 
-import "testing"
+import (
+	"math/rand/v2"
+	"slices"
+	"testing"
+)
 
 func TestVide(t *testing.T) {
 	tab := []int{}
@@ -132,4 +136,66 @@ func equal(t1, t2 []int) bool {
 		}
 	}
 	return true
+}
+
+// Cas de test pour le contrôle de 2023-2024
+
+func TestVide3(t *testing.T) {
+	var tab []int
+	decroissant(tab)
+	if len(tab) != 0 {
+		t.Fail()
+	}
+}
+
+func TestExemple5(t *testing.T) {
+	var tab []int = []int{1, 2, 3, 4, 5}
+	var res []int = []int{5, 4, 3, 2, 1}
+	decroissant(tab)
+	if !slices.Equal(tab, res) {
+		t.Fail()
+	}
+}
+
+// Ajoutés après le DS
+
+func Test1(t *testing.T) {
+	var tab []int = []int{1}
+	var res []int = []int{1}
+	decroissant(tab)
+	if !slices.Equal(tab, res) {
+		t.Fail()
+	}
+}
+
+func Test2(t *testing.T) {
+	var tab []int = []int{7, 3}
+	var res []int = []int{7, 3}
+	decroissant(tab)
+	if !slices.Equal(tab, res) {
+		t.Fail()
+	}
+}
+
+func Test3(t *testing.T) {
+	var tab []int = []int{3, 7}
+	var res []int = []int{7, 3}
+	decroissant(tab)
+	if !slices.Equal(tab, res) {
+		t.Fail()
+	}
+}
+
+func Test4(t *testing.T) {
+	var res []int = []int{125, 65, 45, 32, 25, 24, 23, 14, 12, 11, 9, 5, 4, 2, -1, -5, -10, -1000}
+	var tab []int = make([]int, len(res))
+	copy(tab, res)
+
+	for i := 0; i < 25; i++ {
+		rand.Shuffle(len(tab), func(i, j int) { tab[i], tab[j] = tab[j], tab[i] })
+		decroissant(tab)
+		if !slices.Equal(tab, res) {
+			t.Errorf("J'attendais %d et j'ai eu %d", res, tab)
+		}
+	}
 }

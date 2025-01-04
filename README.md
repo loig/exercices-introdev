@@ -353,3 +353,24 @@ basiques devient divers
 - longueur (exercice 3, l'ancien longueur devient longueur2)
 - rectangles (exercice 4)
 - rectangles2 (exercice 7)
+
+### 2024-2025 Test machine 3
+
+#### fichiers
+- lignevide (exercice 2)
+
+#### pointeurs
+- lirepointeur (exercice 0)
+
+#### recursivite
+- comptersimple (exercice 5)
+- recherchemot (exercice 3)
+
+#### structures
+- contient (exercice 7, déjà présent)
+- listelongueur (exercice 6)
+
+#### tri
+- decroissant (exercice 1, déjà présent)
+- lutin (exercice 4)
+- tritri (exercice 8)
