@@ -1,6 +1,8 @@
 # Exercices introdev
 
-Collection d'exercices pour le cours d'introduction au développement au département informatique de l'IUT de Nantes.
+Collection d'exercices pour le cours d'introduction au développement au département informatique de l'IUT de Nantes (2021-2025).
+
+Dépôt d'origine : [https://gitlab.univ-nantes.fr/jezequel-l/exercices-introdev]
 
 ## Instructions pour récupérer les exercices
 
@@ -22,7 +24,7 @@ Pour résoudre un exercice vous devez coder la fonction Go qui est décrite dans
 
 Vous pouvez faire les exercices dans l'ordre que vous voulez. Dans chaque dossier vous trouverez des exercices faciles et d'autres plus difficiles, ne restez pas bloqués sur un exercice : passez à un autre et revenez-y plus tard.
 
-Vous disposez aussi d'une page Web pour voir la difficulté (ressentie par votre promo et les anciens étudiants) des exercices. Cette page est accessible à l'adresse http://172.26.82.22 **depuis le réseau de l'IUT uniquement**. Votre identifiant est votre nom de famille en majuscules suivi de votre prénom (ex : JEZEQUEL Loïg) et votre mot de passe est votre nom de famille en majuscules (ex : JEZEQUEL).
+Vous disposez aussi d'une page Web pour voir la difficulté (ressentie par votre promo et les anciens étudiants) des exercices. Cette page est accessible à l'adresse http://XXX **depuis le réseau de l'IUT uniquement**. Votre identifiant est votre nom de famille en majuscules suivi de votre prénom (ex : JEZEQUEL Loïg) et votre mot de passe est votre nom de famille en majuscules (ex : JEZEQUEL).
 
 N'oubliez pas, à chaque fois que vous résolvez un exercice, d'évaluer sa difficulté sur cette page pour aider les autres à repérer les exercices plus ou moins difficiles.
 
